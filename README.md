@@ -1,4 +1,9 @@
-Meditation app
+#Meditation app
+
+App Url: 
+https://manojkumaar-gowda.github.io/meditationApp/
+
+
 This app runs on 4 themes.
 1. OM theme
 2. Wheat theme
